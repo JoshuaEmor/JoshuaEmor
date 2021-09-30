@@ -4,11 +4,11 @@
 
 
 ## I'm a student, Developer, Creator, and a gamer!!
-👋 Hi, I’m @JoshuaEmor
-👀 I’m interested in programming and economics
-🌱 I’m currently learning web developer
-💞️ I’m looking to collaborate on building a responsive web app
-⚡ Fun fact: I speak 43 languages ( English, Japanese, Indonesia)
+- 👋 Hi, I’m @JoshuaEmor
+- 👀 I’m interested in programming and economics
+- 🌱 I’m currently learning web developer
+- 💞️ I’m looking to collaborate on building a responsive web app
+- ⚡ Fun fact: I speak 43 languages ( English, Japanese, Indonesia)
 
 
 ### Talk with me, I am kinda awesome:
