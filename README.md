@@ -3,7 +3,7 @@
  <img align="right" alt="GIF" src="https://github.com/JoshuaEmor/JoshuaEmor/blob/main/code.gif?raw=true" width="500" height="320" />
 
 
-## I'm a student, Developer, Creator, and gamer!!
+## I'm a student, Developer, Creator, and a gamer!!
 👋 Hi, I’m @JoshuaEmor
 👀 I’m interested in programming and economics
 🌱 I’m currently learning web developer
