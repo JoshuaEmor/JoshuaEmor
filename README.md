@@ -8,7 +8,7 @@
 - 👀 I’m interested in programming and economics
 - 🌱 I’m currently learning web developer
 - 💞️ I’m looking to collaborate on building a responsive web app
-- ⚡ Fun fact: I speak 43 languages ( English, Japanese, Indonesia)
+- ⚡ Fun fact: I speak 3 languages ( English, Japanese, Indonesia)
 
 
 ### Talk with me, I am kinda awesome:
